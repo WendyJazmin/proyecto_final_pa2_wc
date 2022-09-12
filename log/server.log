@@ -1,0 +1,470 @@
+2022-09-10 17:37:30 INFO  GestorClienteServiceImpl:71 - Se a buscado los vehiculos con marca: KIA y modelo: SPORTAGE
+2022-09-10 17:39:35 INFO  GestorClienteServiceImpl:71 - Se a buscado los vehiculos con marca: KIA y modelo: SPORTAGE
+2022-09-10 17:41:40 INFO  GestorClienteServiceImpl:71 - Se a buscado los vehiculos con marca: KIA y modelo: SPORTAGE
+2022-09-10 17:41:49 INFO  GestorClienteServiceImpl:71 - Se a buscado los vehiculos con marca: KIA y modelo: SPORTAGE
+2022-09-10 17:41:49 INFO  GestorClienteServiceImpl:71 - Se a buscado los vehiculos con marca: KIA y modelo: SPORTAGE
+2022-09-10 17:41:55 INFO  GestorClienteServiceImpl:71 - Se a buscado los vehiculos con marca: KIA y modelo: SPORTAGE
+2022-09-10 17:41:55 INFO  GestorClienteServiceImpl:71 - Se a buscado los vehiculos con marca: KIA y modelo: SPORTAGE
+2022-09-10 17:41:56 INFO  GestorClienteServiceImpl:71 - Se a buscado los vehiculos con marca: KIA y modelo: SPORTAGE
+2022-09-10 17:41:57 INFO  GestorClienteServiceImpl:71 - Se a buscado los vehiculos con marca: KIA y modelo: SPORTAGE
+2022-09-10 17:41:58 INFO  GestorClienteServiceImpl:71 - Se a buscado los vehiculos con marca: KIA y modelo: SPORTAGE
+2022-09-10 17:41:58 INFO  GestorClienteServiceImpl:71 - Se a buscado los vehiculos con marca: KIA y modelo: SPORTAGE
+2022-09-10 17:41:58 INFO  GestorClienteServiceImpl:71 - Se a buscado los vehiculos con marca: KIA y modelo: SPORTAGE
+2022-09-10 17:41:58 INFO  GestorClienteServiceImpl:71 - Se a buscado los vehiculos con marca: KIA y modelo: SPORTAGE
+2022-09-10 17:41:58 INFO  GestorClienteServiceImpl:71 - Se a buscado los vehiculos con marca: KIA y modelo: SPORTAGE
+2022-09-10 17:41:59 INFO  GestorClienteServiceImpl:71 - Se a buscado los vehiculos con marca: KIA y modelo: SPORTAGE
+2022-09-10 19:16:18 INFO  GestorClienteServiceImpl:27 - Se a creado al vehiculo: Subaru
+2022-09-10 19:16:18 INFO  GestorClienteServiceImpl:49 - Se a buscado al vehiculo con id: 1
+2022-09-10 19:17:40 INFO  GestorClienteServiceImpl:27 - Se a creado al vehiculo: Subaru
+2022-09-10 19:17:40 INFO  GestorClienteServiceImpl:49 - Se a buscado al vehiculo con id: 2
+2022-09-10 19:18:39 INFO  GestorClienteServiceImpl:27 - Se a creado al vehiculo: Subaru
+2022-09-10 19:18:39 INFO  GestorClienteServiceImpl:49 - Se a buscado al vehiculo con id: 3
+2022-09-10 19:20:05 INFO  GestorClienteServiceImpl:27 - Se a creado al vehiculo: Subaru
+2022-09-10 19:20:05 INFO  GestorClienteServiceImpl:49 - Se a buscado al vehiculo con id: 4
+2022-09-10 19:21:11 INFO  GestorClienteServiceImpl:27 - Se a creado al vehiculo: Subaru
+2022-09-10 19:21:11 INFO  GestorClienteServiceImpl:49 - Se a buscado al vehiculo con id: 5
+2022-09-10 19:25:05 INFO  GestorClienteServiceImpl:27 - Se a creado al vehiculo: Subaru
+2022-09-10 19:25:05 INFO  GestorClienteServiceImpl:65 - Se a buscado al vehiculo con placa: Subaru
+2022-09-10 19:26:11 INFO  GestorClienteServiceImpl:27 - Se a creado al vehiculo: Subaru
+2022-09-10 19:26:11 INFO  GestorClienteServiceImpl:65 - Se a buscado al vehiculo con placa: Subaru
+2022-09-10 19:28:03 INFO  GestorClienteServiceImpl:27 - Se a creado al vehiculo: Subaru
+2022-09-10 19:28:03 INFO  GestorClienteServiceImpl:65 - Se a buscado al vehiculo con placa: Subaru
+2022-09-10 19:28:38 INFO  GestorClienteServiceImpl:27 - Se a creado al vehiculo: Subaru
+2022-09-10 19:28:38 INFO  GestorClienteServiceImpl:65 - Se a buscado al vehiculo con placa: Subaru
+2022-09-10 20:36:04 INFO  GestorClienteServiceImpl:65 - Se a buscado al vehiculo con placa: PTG-9563
+2022-09-10 20:36:04 INFO  GestorClienteServiceImpl:80 - Se a buscado a los vehiculos con marca: KIA
+2022-09-10 20:36:04 INFO  GestorClienteServiceImpl:37 - Se a eliminado al vehiculo: PTG-9563
+2022-09-10 20:36:04 INFO  GestorClienteServiceImpl:27 - Se a creado al vehiculo: Subaru
+2022-09-10 20:36:04 INFO  GestorClienteServiceImpl:49 - Se a buscado al vehiculo con id: 1
+2022-09-10 20:37:11 INFO  GestorClienteServiceImpl:65 - Se a buscado al vehiculo con placa: PTG-9563
+2022-09-10 20:37:11 INFO  GestorClienteServiceImpl:58 - Se a actualizado al vehiculo con placa: Subaru
+2022-09-10 20:37:11 INFO  GestorClienteServiceImpl:80 - Se a buscado a los vehiculos con marca: KIA
+2022-09-10 20:37:11 INFO  GestorClienteServiceImpl:37 - Se a eliminado al vehiculo: PTG-9563
+2022-09-10 20:37:11 INFO  GestorClienteServiceImpl:27 - Se a creado al vehiculo: Subaru
+2022-09-10 20:37:11 INFO  GestorClienteServiceImpl:49 - Se a buscado al vehiculo con id: 1
+2022-09-10 20:39:54 INFO  GestorClienteServiceImpl:65 - Se a buscado al vehiculo con placa: PTG-9563
+2022-09-10 20:39:55 INFO  GestorClienteServiceImpl:58 - Se a actualizado al vehiculo con placa: Subaru
+2022-09-10 20:39:55 INFO  GestorClienteServiceImpl:73 - Se a buscado los vehiculos con marca: KIA y modelo: SPORTAGE
+2022-09-10 20:39:55 INFO  GestorClienteServiceImpl:80 - Se a buscado a los vehiculos con marca: KIA
+2022-09-10 20:39:55 INFO  GestorClienteServiceImpl:37 - Se a eliminado al vehiculo: PTG-9563
+2022-09-10 20:39:55 INFO  GestorClienteServiceImpl:27 - Se a creado al vehiculo: Subaru
+2022-09-10 20:39:55 INFO  GestorClienteServiceImpl:49 - Se a buscado al vehiculo con id: 1
+2022-09-10 20:40:53 INFO  GestorClienteServiceImpl:65 - Se a buscado al vehiculo con placa: PTG-9563
+2022-09-10 20:40:53 INFO  GestorClienteServiceImpl:58 - Se a actualizado al vehiculo con placa: Subaru
+2022-09-10 20:40:53 INFO  GestorClienteServiceImpl:73 - Se a buscado los vehiculos con marca: KIA y modelo: SPORTAGE
+2022-09-10 20:40:53 INFO  GestorClienteServiceImpl:80 - Se a buscado a los vehiculos con marca: KIA
+2022-09-10 20:40:53 INFO  GestorClienteServiceImpl:37 - Se a eliminado al vehiculo: PTG-9563
+2022-09-10 20:40:53 INFO  GestorClienteServiceImpl:27 - Se a creado al vehiculo: Subaru
+2022-09-10 20:40:53 INFO  GestorClienteServiceImpl:49 - Se a buscado al vehiculo con id: 100
+2022-09-11 00:07:32 INFO  GestorClienteServiceImpl:48 - El vehiculo si esta disponible
+2022-09-11 00:07:32 INFO  GestorClienteServiceImpl:63 - Se a buscado al vehiculo con placa: AAA
+2022-09-11 00:11:10 INFO  GestorClienteServiceImpl:48 - El vehiculo si esta disponible
+2022-09-11 00:11:10 INFO  GestorClienteServiceImpl:63 - Se a buscado al vehiculo con placa: PRG-0423
+2022-09-11 00:12:09 INFO  GestorClienteServiceImpl:49 - El vehiculo si esta disponible
+2022-09-11 00:12:09 INFO  GestorClienteServiceImpl:63 - Se a buscado al vehiculo con placa: PRG-0423
+2022-09-11 00:17:59 INFO  GestorClienteServiceImpl:70 - Se a buscado los vehiculos con marca: KIA y modelo: SPORTAGE
+2022-09-11 00:59:55 INFO  GestorClienteServiceImpl:44 - El vehiculo no esta disponible
+2022-09-11 01:00:55 INFO  GestorClienteServiceImpl:49 - El vehiculo si esta disponible
+2022-09-11 01:00:55 INFO  GestorClienteServiceImpl:63 - Se a buscado al vehiculo con placa: PRG-0423
+2022-09-11 12:58:48 INFO  GestorClienteServiceImpl:43 - Se a creado al cliente: 0000125634
+2022-09-11 13:01:18 INFO  GestorClienteServiceImpl:43 - Se a creado al cliente: 0000125634
+2022-09-11 13:01:20 INFO  GestorClienteServiceImpl:43 - Se a creado al cliente: 0000125634
+2022-09-11 13:02:28 INFO  GestorClienteServiceImpl:43 - Se a creado al cliente: 4275343453
+2022-09-11 13:24:28 INFO  GestorClienteServiceImpl:43 - Se a creado al cliente: 4275343453
+2022-09-11 14:33:53 INFO  GestorClienteServiceImpl:49 - El vehiculo si esta disponible
+2022-09-11 14:33:53 INFO  GestorClienteServiceImpl:63 - Se a buscado al vehiculo con placa: PRG-0423
+2022-09-11 14:34:42 INFO  GestorClienteServiceImpl:49 - El vehiculo si esta disponible
+2022-09-11 14:34:42 INFO  GestorClienteServiceImpl:63 - Se a buscado al vehiculo con placa: PUT-8953
+2022-09-11 14:48:09 INFO  GestorClienteServiceImpl:49 - El vehiculo si esta disponible
+2022-09-11 14:48:09 INFO  GestorClienteServiceImpl:63 - Se a buscado al vehiculo con placa: PUT-8953
+2022-09-11 14:48:42 INFO  GestorClienteServiceImpl:49 - El vehiculo si esta disponible
+2022-09-11 14:48:42 INFO  GestorClienteServiceImpl:63 - Se a buscado al vehiculo con placa: PUT-8953
+2022-09-11 15:01:12 INFO  GestorClienteServiceImpl:81 - Se a buscado a los clientes con apellido: Rodrigues
+2022-09-11 15:45:11 INFO  GestorClienteServiceImpl:72 - Se a buscado los vehiculos con marca: KIA y modelo: SPORTAGE
+2022-09-11 15:45:56 INFO  GestorClienteServiceImpl:45 - Se a creado al cliente: 25633
+2022-09-11 18:21:30 INFO  GestorClienteServiceImpl:45 - Se a creado al cliente: 456464564
+2022-09-11 19:12:50 INFO  GestorClienteServiceImpl:75 - Se a buscado al cliente: 25633
+2022-09-11 19:14:55 INFO  GestorClienteServiceImpl:75 - Se a buscado al cliente: 25633
+2022-09-11 19:16:05 INFO  GestorClienteServiceImpl:75 - Se a actualizado al cliente: 25633
+2022-09-11 19:27:35 INFO  GestorClienteServiceImpl:45 - Se a creado al cliente: 1752310126
+2022-09-11 19:33:09 INFO  GestorClienteServiceImpl:45 - Se a creado al cliente: 1752310126
+2022-09-11 20:08:42 INFO  GestorClienteServiceImpl:45 - Se a creado al cliente: null
+2022-09-11 20:11:15 INFO  GestorClienteServiceImpl:24 - Se realizao la consulta de reporte de las reservas
+2022-09-11 21:13:38 INFO  GestorClienteServiceImpl:90 - Se a buscado a los vehiculos con año y mes: 2022/02
+2022-09-11 21:22:37 INFO  GestorClienteServiceImpl:90 - Se a buscado a los vehiculos con año y mes: 2022/02
+2022-09-11 22:50:36 INFO  GestorClienteServiceImpl:49 - El vehiculo si esta disponible
+2022-09-11 22:50:36 INFO  GestorClienteServiceImpl:65 - Se a buscado al vehiculo con placa: PUT-8953
+2022-09-11 22:51:31 INFO  GestorClienteServiceImpl:49 - El vehiculo si esta disponible
+2022-09-11 22:51:31 INFO  GestorClienteServiceImpl:65 - Se a buscado al vehiculo con placa: PUT-8953
+2022-09-11 22:52:59 INFO  GestorClienteServiceImpl:49 - El vehiculo si esta disponible
+2022-09-11 22:52:59 INFO  GestorClienteServiceImpl:65 - Se a buscado al vehiculo con placa: PUT-8953
+2022-09-11 22:55:42 INFO  GestorClienteServiceImpl:49 - El vehiculo si esta disponible
+2022-09-11 22:55:42 INFO  GestorClienteServiceImpl:65 - Se a buscado al vehiculo con placa: PUT-8953
+2022-09-11 22:56:36 INFO  GestorClienteServiceImpl:49 - El vehiculo si esta disponible
+2022-09-11 22:56:36 INFO  GestorClienteServiceImpl:65 - Se a buscado al vehiculo con placa: PUT-8953
+2022-09-11 22:57:11 INFO  GestorClienteServiceImpl:49 - El vehiculo si esta disponible
+2022-09-11 22:57:11 INFO  GestorClienteServiceImpl:65 - Se a buscado al vehiculo con placa: PUT-8953
+2022-09-11 22:58:38 INFO  GestorClienteServiceImpl:49 - El vehiculo si esta disponible
+2022-09-11 22:58:38 INFO  GestorClienteServiceImpl:65 - Se a buscado al vehiculo con placa: PUT-8953
+2022-09-11 23:07:36 INFO  GestorClienteServiceImpl:91 - Si se puede retirar el vehiculo
+2022-09-11 23:07:36 INFO  GestorClienteServiceImpl:59 - Se a actualizado al vehiculo con placa: PUT-8953
+2022-09-11 23:09:27 INFO  GestorClienteServiceImpl:95 - No se puede retirar el vehiculo
+2022-09-11 23:10:02 INFO  GestorClienteServiceImpl:72 - Se a buscado los vehiculos con marca: KIA y modelo: SPORTAGE
+2022-09-11 23:10:41 INFO  GestorClienteServiceImpl:95 - No se puede retirar el vehiculo
+2022-09-11 23:11:08 INFO  GestorClienteServiceImpl:95 - No se puede retirar el vehiculo
+2022-09-11 23:12:03 INFO  GestorClienteServiceImpl:96 - Se a realizado el reporte de clientes VIP
+2022-09-11 23:12:12 INFO  GestorClienteServiceImpl:90 - Se a buscado a los vehiculos con año y mes: 2022/02
+2022-09-11 23:12:35 INFO  GestorClienteServiceImpl:24 - Se realizao la consulta de reporte de las reservas
+2022-09-11 23:13:29 INFO  GestorClienteServiceImpl:72 - Se a buscado los vehiculos con marca: KIA y modelo: SPORTAGE
+2022-09-11 23:14:54 INFO  GestorClienteServiceImpl:49 - El vehiculo si esta disponible
+2022-09-11 23:14:54 INFO  GestorClienteServiceImpl:65 - Se a buscado al vehiculo con placa: PUT-8953
+2022-09-11 23:15:38 INFO  GestorClienteServiceImpl:95 - No se puede retirar el vehiculo
+2022-09-11 23:15:57 INFO  GestorClienteServiceImpl:72 - Se a buscado los vehiculos con marca: KIA y modelo: SPORTAGE
+2022-09-11 23:18:52 INFO  GestorClienteServiceImpl:72 - Se a buscado los vehiculos con marca: KIA y modelo: SPORTAGE
+2022-09-11 23:21:49 INFO  GestorClienteServiceImpl:72 - Se a buscado los vehiculos con marca: KIA y modelo: SPORTAGE
+2022-09-11 23:28:05 INFO  GestorClienteServiceImpl:49 - El vehiculo si esta disponible
+2022-09-11 23:28:05 INFO  GestorClienteServiceImpl:65 - Se a buscado al vehiculo con placa: PUT-8953
+2022-09-11 23:36:34 INFO  GestorClienteServiceImpl:49 - El vehiculo si esta disponible
+2022-09-11 23:36:34 INFO  GestorClienteServiceImpl:65 - Se a buscado al vehiculo con placa: PUT-8953
+2022-09-11 23:36:42 INFO  GestorClienteServiceImpl:89 - Se al cliente con cedula: 1752310126
+2022-09-11 23:37:40 INFO  GestorClienteServiceImpl:89 - Se al cliente con cedula: 1752310126
+2022-09-11 23:37:43 INFO  GestorClienteServiceImpl:89 - Se al cliente con cedula: 1752310126
+2022-09-11 23:37:51 INFO  GestorClienteServiceImpl:89 - Se al cliente con cedula: 1752310126
+2022-09-11 23:37:51 INFO  GestorClienteServiceImpl:75 - Se a actualizado al cliente: 1752310126
+2022-09-11 23:38:16 INFO  GestorClienteServiceImpl:89 - Se al cliente con cedula: 1752310126
+2022-09-11 23:38:24 INFO  GestorClienteServiceImpl:89 - Se al cliente con cedula: 1752310126
+2022-09-11 23:38:24 INFO  GestorClienteServiceImpl:75 - Se a actualizado al cliente: 1752310126
+2022-09-12 00:02:08 INFO  GestorClienteServiceImpl:95 - No se puede retirar el vehiculo
+2022-09-12 00:06:02 INFO  GestorClienteServiceImpl:24 - Se realizao la consulta de reporte de las reservas
+2022-09-12 00:07:24 INFO  GestorClienteServiceImpl:24 - Se realizao la consulta de reporte de las reservas
+2022-09-12 00:07:55 INFO  GestorClienteServiceImpl:96 - Se a realizado el reporte de clientes VIP
+2022-09-12 00:08:36 INFO  GestorClienteServiceImpl:96 - Se a realizado el reporte de clientes VIP
+2022-09-12 00:09:01 INFO  GestorClienteServiceImpl:96 - Se a realizado el reporte de clientes VIP
+2022-09-12 00:10:25 INFO  GestorClienteServiceImpl:90 - Se a buscado a los vehiculos con año y mes: 2022/02
+2022-09-12 00:11:28 INFO  GestorClienteServiceImpl:90 - Se a buscado a los vehiculos con año y mes: 2022/02
+2022-09-12 00:24:51 INFO  GestorClienteServiceImpl:82 - Se a buscado a los clientes con apellido: Pepes
+2022-09-12 00:24:57 INFO  GestorClienteServiceImpl:67 - Se a buscado al cliente: 6
+2022-09-12 00:25:12 INFO  GestorClienteServiceImpl:75 - Se a actualizado al cliente: 589657963
+2022-09-12 00:25:15 INFO  GestorClienteServiceImpl:82 - Se a buscado a los clientes con apellido: 
+2022-09-12 00:25:19 INFO  GestorClienteServiceImpl:82 - Se a buscado a los clientes con apellido: Pepes
+2022-09-12 00:25:23 INFO  GestorClienteServiceImpl:89 - Se al cliente con cedula: 589657963
+2022-09-12 00:27:14 INFO  GestorClienteServiceImpl:82 - Se a buscado a los clientes con apellido: Pepes
+2022-09-12 00:27:17 INFO  GestorClienteServiceImpl:89 - Se al cliente con cedula: 4275343453
+2022-09-12 00:27:31 INFO  GestorClienteServiceImpl:89 - Se al cliente con cedula: 589657963
+2022-09-12 00:29:45 INFO  GestorClienteServiceImpl:82 - Se a buscado a los clientes con apellido: Pepes
+2022-09-12 00:29:47 INFO  GestorClienteServiceImpl:89 - Se al cliente con cedula: 589657963
+2022-09-12 00:29:51 INFO  GestorClienteServiceImpl:67 - Se a buscado al cliente: 6
+2022-09-12 00:30:02 INFO  GestorClienteServiceImpl:75 - Se a actualizado al cliente: 589657963
+2022-09-12 00:30:05 INFO  GestorClienteServiceImpl:82 - Se a buscado a los clientes con apellido: Pepes
+2022-09-12 00:30:07 INFO  GestorClienteServiceImpl:89 - Se al cliente con cedula: 589657963
+2022-09-12 00:31:34 INFO  GestorClienteServiceImpl:82 - Se a buscado a los clientes con apellido: Pepes
+2022-09-12 00:31:35 INFO  GestorClienteServiceImpl:89 - Se al cliente con cedula: 589657963
+2022-09-12 00:31:38 INFO  GestorClienteServiceImpl:67 - Se a buscado al cliente: 6
+2022-09-12 00:31:44 INFO  GestorClienteServiceImpl:67 - Se a buscado al cliente: 6
+2022-09-12 00:31:44 INFO  GestorClienteServiceImpl:75 - Se a actualizado al cliente: 589657963
+2022-09-12 00:31:47 INFO  GestorClienteServiceImpl:82 - Se a buscado a los clientes con apellido: Pepes
+2022-09-12 00:31:48 INFO  GestorClienteServiceImpl:89 - Se al cliente con cedula: 589657963
+2022-09-12 00:34:27 INFO  GestorClienteServiceImpl:24 - Se realizao la consulta de reporte de las reservas
+2022-09-12 00:34:36 INFO  GestorClienteServiceImpl:96 - Se a realizado el reporte de clientes VIP
+2022-09-12 00:34:55 INFO  GestorClienteServiceImpl:90 - Se a buscado a los vehiculos con año y mes: 2022/02
+2022-09-12 00:35:25 INFO  GestorClienteServiceImpl:82 - Se a buscado a los clientes con apellido: Pepes
+2022-09-12 00:36:31 INFO  GestorClienteServiceImpl:82 - Se a buscado a los clientes con apellido: Pepes
+2022-09-12 00:36:37 INFO  GestorClienteServiceImpl:89 - Se al cliente con cedula: 4275343453
+2022-09-12 00:37:45 INFO  GestorClienteServiceImpl:89 - Se al cliente con cedula: 4275343453
+2022-09-12 00:38:20 INFO  GestorClienteServiceImpl:89 - Se al cliente con cedula: 4275343453
+2022-09-12 00:39:12 INFO  GestorClienteServiceImpl:82 - Se a buscado a los clientes con apellido: Pepes
+2022-09-12 00:39:13 INFO  GestorClienteServiceImpl:89 - Se al cliente con cedula: 4275343453
+2022-09-12 00:42:18 INFO  GestorClienteServiceImpl:82 - Se a buscado a los clientes con apellido: Pepes
+2022-09-12 00:42:20 INFO  GestorClienteServiceImpl:89 - Se al cliente con cedula: 4275343453
+2022-09-12 00:42:22 INFO  GestorClienteServiceImpl:67 - Se a buscado al cliente: 4
+2022-09-12 00:44:04 INFO  GestorClienteServiceImpl:67 - Se a buscado al cliente: 4
+2022-09-12 00:44:36 INFO  GestorClienteServiceImpl:67 - Se a buscado al cliente: 4
+2022-09-12 00:47:36 INFO  GestorClienteServiceImpl:72 - Se a buscado los vehiculos con marca: KIA y modelo: SPORTAGE
+2022-09-12 00:48:32 INFO  GestorClienteServiceImpl:72 - Se a buscado los vehiculos con marca: KIA y modelo: SPORTAGE
+2022-09-12 00:52:08 INFO  GestorClienteServiceImpl:80 - Se a buscado a los vehiculos con marca: KIA
+2022-09-12 00:53:08 INFO  GestorClienteServiceImpl:80 - Se a buscado a los vehiculos con marca: KIA
+2022-09-12 00:53:11 INFO  GestorClienteServiceImpl:50 - Se a buscado al vehiculo con id: 100
+2022-09-12 00:53:16 INFO  GestorClienteServiceImpl:50 - Se a buscado al vehiculo con id: 100
+2022-09-12 00:53:42 INFO  GestorClienteServiceImpl:50 - Se a buscado al vehiculo con id: 100
+2022-09-12 00:54:20 INFO  GestorClienteServiceImpl:50 - Se a buscado al vehiculo con id: 100
+2022-09-12 00:55:14 INFO  GestorClienteServiceImpl:80 - Se a buscado a los vehiculos con marca: KIA
+2022-09-12 00:55:15 INFO  GestorClienteServiceImpl:50 - Se a buscado al vehiculo con id: 100
+2022-09-12 00:56:11 INFO  GestorClienteServiceImpl:50 - Se a buscado al vehiculo con id: 100
+2022-09-12 00:56:14 INFO  GestorClienteServiceImpl:50 - Se a buscado al vehiculo con id: 100
+2022-09-12 00:59:13 INFO  GestorClienteServiceImpl:80 - Se a buscado a los vehiculos con marca: KIA
+2022-09-12 00:59:14 INFO  GestorClienteServiceImpl:50 - Se a buscado al vehiculo con id: 100
+2022-09-12 01:00:40 INFO  GestorClienteServiceImpl:80 - Se a buscado a los vehiculos con marca: KIA
+2022-09-12 01:00:42 INFO  GestorClienteServiceImpl:50 - Se a buscado al vehiculo con id: 100
+2022-09-12 01:01:10 INFO  GestorClienteServiceImpl:50 - Se a buscado al vehiculo con id: 100
+2022-09-12 01:01:54 INFO  GestorClienteServiceImpl:80 - Se a buscado a los vehiculos con marca: KIA
+2022-09-12 01:01:55 INFO  GestorClienteServiceImpl:50 - Se a buscado al vehiculo con id: 100
+2022-09-12 01:02:05 INFO  GestorClienteServiceImpl:59 - Se a actualizado al vehiculo con placa: PRG-0423
+2022-09-12 01:02:05 INFO  GestorClienteServiceImpl:80 - Se a buscado a los vehiculos con marca: null
+2022-09-12 01:26:45 INFO  GestorClienteServiceImpl:59 - Se a actualizado al vehiculo con placa: PRG-0423
+2022-09-12 01:26:45 INFO  GestorClienteServiceImpl:80 - Se a buscado a los vehiculos con marca: null
+2022-09-12 01:27:11 INFO  GestorClienteServiceImpl:80 - Se a buscado a los vehiculos con marca: KIA
+2022-09-12 01:28:55 INFO  GestorClienteServiceImpl:50 - Se a buscado al vehiculo con id: 101
+2022-09-12 01:29:01 INFO  GestorClienteServiceImpl:59 - Se a actualizado al vehiculo con placa: PTG-9563
+2022-09-12 01:29:11 INFO  GestorClienteServiceImpl:59 - Se a actualizado al vehiculo con placa: PTG-9563
+2022-09-12 01:29:53 INFO  GestorClienteServiceImpl:82 - Se a buscado a los clientes con apellido: Pepes
+2022-09-12 01:29:55 INFO  GestorClienteServiceImpl:89 - Se al cliente con cedula: 4275343453
+2022-09-12 01:31:10 INFO  GestorClienteServiceImpl:80 - Se a buscado a los vehiculos con marca: KIA
+2022-09-12 01:31:12 INFO  GestorClienteServiceImpl:50 - Se a buscado al vehiculo con id: 100
+2022-09-12 01:31:14 INFO  GestorClienteServiceImpl:59 - Se a actualizado al vehiculo con placa: PRG-0423
+2022-09-12 01:31:30 INFO  GestorClienteServiceImpl:82 - Se a buscado a los clientes con apellido: Pepes
+2022-09-12 01:46:13 INFO  GestorClienteServiceImpl:82 - Se a buscado a los clientes con apellido: Pepes
+2022-09-12 01:46:18 INFO  GestorClienteServiceImpl:67 - Se a buscado al cliente: 6
+2022-09-12 01:46:18 INFO  GestorClienteServiceImpl:55 - Se a eliminado al cliente: 589657963
+2022-09-12 01:46:39 INFO  GestorClienteServiceImpl:82 - Se a buscado a los clientes con apellido: Pepes
+2022-09-12 01:47:24 INFO  GestorClienteServiceImpl:67 - Se a buscado al cliente: 4
+2022-09-12 01:47:24 INFO  GestorClienteServiceImpl:58 - NO se a eliminado al cliente: 4275343453
+2022-09-12 01:47:32 INFO  GestorClienteServiceImpl:82 - Se a buscado a los clientes con apellido: Pepes
+2022-09-12 01:51:46 INFO  GestorClienteServiceImpl:82 - Se a buscado a los clientes con apellido: Pepes
+2022-09-12 01:51:48 INFO  GestorClienteServiceImpl:67 - Se a buscado al cliente: 500
+2022-09-12 01:51:48 INFO  GestorClienteServiceImpl:55 - Se a eliminado al cliente: 5
+2022-09-12 01:51:55 INFO  GestorClienteServiceImpl:67 - Se a buscado al cliente: 4
+2022-09-12 01:51:55 INFO  GestorClienteServiceImpl:58 - NO se a eliminado al cliente: 4275343453
+2022-09-12 01:52:01 INFO  GestorClienteServiceImpl:82 - Se a buscado a los clientes con apellido: Pepes
+2022-09-12 01:54:20 INFO  GestorClienteServiceImpl:29 - Se a creado al vehiculo: a
+2022-09-12 01:54:26 INFO  GestorClienteServiceImpl:80 - Se a buscado a los vehiculos con marca: a
+2022-09-12 01:54:39 INFO  GestorClienteServiceImpl:80 - Se a buscado a los vehiculos con marca: a
+2022-09-12 01:54:52 INFO  GestorClienteServiceImpl:80 - Se a buscado a los vehiculos con marca: a
+2022-09-12 01:55:08 INFO  GestorClienteServiceImpl:80 - Se a buscado a los vehiculos con marca: KIA
+2022-09-12 02:01:51 INFO  GestorClienteServiceImpl:49 - El vehiculo si esta disponible
+2022-09-12 02:01:51 INFO  GestorClienteServiceImpl:65 - Se a buscado al vehiculo con placa: PUT-8953
+2022-09-12 02:02:55 INFO  GestorClienteServiceImpl:44 - El vehiculo no esta disponible
+2022-09-12 02:08:45 INFO  GestorClienteServiceImpl:49 - El vehiculo si esta disponible
+2022-09-12 02:08:45 INFO  GestorClienteServiceImpl:65 - Se a buscado al vehiculo con placa: PUT-8953
+2022-09-12 02:10:15 INFO  GestorClienteServiceImpl:80 - Se a buscado a los vehiculos con marca: a
+2022-09-12 02:10:48 INFO  GestorClienteServiceImpl:80 - Se a buscado a los vehiculos con marca: KIA
+2022-09-12 02:12:00 INFO  GestorClienteServiceImpl:82 - Se a buscado a los clientes con apellido: Pepes
+2022-09-12 02:12:02 INFO  GestorClienteServiceImpl:67 - Se a buscado al cliente: 4
+2022-09-12 02:12:02 INFO  GestorClienteServiceImpl:58 - NO se a eliminado al cliente: 4275343453
+2022-09-12 02:12:21 INFO  GestorClienteServiceImpl:45 - Se a creado al cliente: 556666
+2022-09-12 02:13:22 INFO  GestorClienteServiceImpl:45 - Se a creado al cliente: 556666899
+2022-09-12 02:14:45 INFO  GestorClienteServiceImpl:45 - Se a creado al cliente: 9898989
+2022-09-12 02:15:39 INFO  GestorClienteServiceImpl:45 - Se a creado al cliente: 8888888888
+2022-09-12 02:15:50 INFO  GestorClienteServiceImpl:45 - Se a creado al cliente: asasasads
+2022-09-12 02:17:06 INFO  GestorClienteServiceImpl:45 - Se a creado al cliente: 1111122222
+2022-09-12 02:17:42 INFO  GestorClienteServiceImpl:45 - Se a creado al cliente: 666666666666
+2022-09-12 02:17:50 INFO  GestorClienteServiceImpl:82 - Se a buscado a los clientes con apellido: Pepes
+2022-09-12 02:17:53 INFO  GestorClienteServiceImpl:67 - Se a buscado al cliente: 13
+2022-09-12 02:17:53 INFO  GestorClienteServiceImpl:55 - Se a eliminado al cliente: 9898989
+2022-09-12 02:18:01 INFO  GestorClienteServiceImpl:82 - Se a buscado a los clientes con apellido: Pepes
+2022-09-12 02:18:04 INFO  GestorClienteServiceImpl:67 - Se a buscado al cliente: 17
+2022-09-12 02:18:04 INFO  GestorClienteServiceImpl:55 - Se a eliminado al cliente: 666666666666
+2022-09-12 02:24:26 INFO  GestorClienteServiceImpl:80 - Se a buscado a los vehiculos con marca: KIA
+2022-09-12 02:31:42 INFO  GestorClienteServiceImpl:80 - Se a buscado a los vehiculos con marca: a
+2022-09-12 02:31:49 INFO  GestorClienteServiceImpl:80 - Se a buscado a los vehiculos con marca: KIA
+2022-09-12 02:32:17 INFO  GestorClienteServiceImpl:80 - Se a buscado a los vehiculos con marca: KIA
+2022-09-12 02:32:20 INFO  GestorClienteServiceImpl:80 - Se a buscado a los vehiculos con marca: KIA
+2022-09-12 02:33:16 INFO  GestorClienteServiceImpl:80 - Se a buscado a los vehiculos con marca: a
+2022-09-12 02:33:18 INFO  GestorClienteServiceImpl:80 - Se a buscado a los vehiculos con marca: 
+2022-09-12 02:33:39 INFO  GestorClienteServiceImpl:80 - Se a buscado a los vehiculos con marca: KIA
+2022-09-12 02:33:46 INFO  GestorClienteServiceImpl:80 - Se a buscado a los vehiculos con marca: a
+2022-09-12 02:33:52 INFO  GestorClienteServiceImpl:80 - Se a buscado a los vehiculos con marca: A
+2022-09-12 02:34:06 INFO  GestorClienteServiceImpl:80 - Se a buscado a los vehiculos con marca: A
+2022-09-12 02:34:18 INFO  GestorClienteServiceImpl:80 - Se a buscado a los vehiculos con marca: a
+2022-09-12 02:35:04 INFO  GestorClienteServiceImpl:80 - Se a buscado a los vehiculos con marca: a
+2022-09-12 02:35:06 INFO  GestorClienteServiceImpl:50 - Se a buscado al vehiculo con id: 15
+2022-09-12 02:35:06 INFO  GestorClienteServiceImpl:39 - Se a eliminado al vehiculo: a
+2022-09-12 02:35:26 INFO  GestorClienteServiceImpl:80 - Se a buscado a los vehiculos con marca: KIA
+2022-09-12 02:35:28 INFO  GestorClienteServiceImpl:50 - Se a buscado al vehiculo con id: 100
+2022-09-12 02:35:37 INFO  GestorClienteServiceImpl:80 - Se a buscado a los vehiculos con marca: KIA
+2022-09-12 02:35:42 INFO  GestorClienteServiceImpl:50 - Se a buscado al vehiculo con id: 100
+2022-09-12 02:35:48 INFO  GestorClienteServiceImpl:59 - Se a actualizado al vehiculo con placa: PRG-0423
+2022-09-12 02:49:20 INFO  GestorClienteServiceImpl:50 - Se a buscado al vehiculo con id: 101
+2022-09-12 02:50:44 INFO  GestorClienteServiceImpl:50 - Se a buscado al vehiculo con id: 101
+2022-09-12 02:51:54 INFO  GestorClienteServiceImpl:50 - Se a buscado al vehiculo con id: 101
+2022-09-12 02:51:59 INFO  GestorClienteServiceImpl:59 - Se a actualizado al vehiculo con placa: PTG-9563
+2022-09-12 02:53:10 INFO  GestorClienteServiceImpl:24 - Se realizao la consulta de reporte de las reservas
+2022-09-12 02:53:14 INFO  GestorClienteServiceImpl:96 - Se a realizado el reporte de clientes VIP
+2022-09-12 02:53:22 INFO  GestorClienteServiceImpl:103 - Se a buscado a los vehiculos con año y mes: 2022/02
+2022-09-12 02:53:30 INFO  GestorClienteServiceImpl:72 - Se a buscado los vehiculos con marca: KIA y modelo: SPORTAGE
+2022-09-12 02:55:28 INFO  GestorClienteServiceImpl:72 - Se a buscado los vehiculos con marca: KIA y modelo: SPORTAGE
+2022-09-12 02:56:49 INFO  GestorClienteServiceImpl:72 - Se a buscado los vehiculos con marca: KIA y modelo: SPORTAGE
+2022-09-12 02:59:28 INFO  GestorClienteServiceImpl:49 - El vehiculo si esta disponible
+2022-09-12 02:59:28 INFO  GestorClienteServiceImpl:65 - Se a buscado al vehiculo con placa: PUT-8953
+2022-09-12 10:12:35 INFO  GestorClienteServiceImpl:72 - Se a buscado los vehiculos con marca: KIA y modelo: SPORTAGE
+2022-09-12 10:14:09 INFO  GestorClienteServiceImpl:72 - Se a buscado los vehiculos con marca: KIA y modelo: SPORTAGE
+2022-09-12 10:15:10 INFO  GestorClienteServiceImpl:72 - Se a buscado los vehiculos con marca: KIA y modelo: SPORTAGE
+2022-09-12 10:15:48 INFO  GestorClienteServiceImpl:49 - El vehiculo si esta disponible
+2022-09-12 10:15:48 INFO  GestorClienteServiceImpl:65 - Se a buscado al vehiculo con placa: PTG-9563
+2022-09-12 10:15:54 INFO  GestorClienteServiceImpl:92 - Si se puede retirar el vehiculo
+2022-09-12 10:15:54 INFO  GestorClienteServiceImpl:59 - Se a actualizado al vehiculo con placa: PTG-9563
+2022-09-12 10:22:04 INFO  GestorClienteServiceImpl:59 - Se a actualizado al vehiculo con placa: PTG-9563
+2022-09-12 10:22:04 INFO  GestorClienteServiceImpl:112 - El vehiculo fue regresado
+2022-09-12 10:24:13 INFO  GestorClienteServiceImpl:59 - Se a actualizado al vehiculo con placa: PTG-9563
+2022-09-12 10:24:13 INFO  GestorClienteServiceImpl:112 - El vehiculo fue regresado
+2022-09-12 10:27:23 INFO  GestorClienteServiceImpl:72 - Se a buscado los vehiculos con marca: KIA y modelo: SPORTAGE
+2022-09-12 10:28:57 INFO  GestorClienteServiceImpl:72 - Se a buscado los vehiculos con marca: KIA y modelo: SPORTAGE
+2022-09-12 10:31:26 INFO  GestorClienteServiceImpl:49 - El vehiculo si esta disponible
+2022-09-12 10:31:26 INFO  GestorClienteServiceImpl:65 - Se a buscado al vehiculo con placa: PRG-0423
+2022-09-12 10:31:33 INFO  GestorClienteServiceImpl:91 - Si se puede retirar el vehiculo
+2022-09-12 10:31:33 INFO  GestorClienteServiceImpl:59 - Se a actualizado al vehiculo con placa: PRG-0423
+2022-09-12 10:32:51 INFO  GestorClienteServiceImpl:29 - Se a creado al vehiculo: aa
+2022-09-12 10:34:42 INFO  GestorClienteServiceImpl:29 - Se a creado al vehiculo: b
+2022-09-12 10:34:48 INFO  GestorClienteServiceImpl:82 - Se a buscado a los clientes con apellido: Pepes
+2022-09-12 10:34:51 INFO  GestorClienteServiceImpl:67 - Se a buscado al cliente: 16
+2022-09-12 10:34:51 INFO  GestorClienteServiceImpl:55 - Se a eliminado al cliente: 1111122222
+2022-09-12 10:35:15 INFO  GestorClienteServiceImpl:72 - Se a buscado los vehiculos con marca: KIA y modelo: SPORTAGE
+2022-09-12 10:35:55 INFO  GestorClienteServiceImpl:49 - El vehiculo si esta disponible
+2022-09-12 10:35:55 INFO  GestorClienteServiceImpl:65 - Se a buscado al vehiculo con placa: aa
+2022-09-12 10:41:30 INFO  GestorClienteServiceImpl:45 - Se a creado al cliente: 10202
+2022-09-12 10:41:41 INFO  GestorClienteServiceImpl:89 - Se al cliente con cedula: 25633
+2022-09-12 10:41:50 INFO  GestorClienteServiceImpl:89 - Se al cliente con cedula: 2563345454
+2022-09-12 10:42:13 INFO  GestorClienteServiceImpl:89 - Se al cliente con cedula: 2563345454
+2022-09-12 10:42:50 INFO  GestorClienteServiceImpl:89 - Se al cliente con cedula: 10202
+2022-09-12 10:43:01 INFO  GestorClienteServiceImpl:89 - Se al cliente con cedula: 10202
+2022-09-12 10:43:01 INFO  GestorClienteServiceImpl:75 - Se a actualizado al cliente: 10202
+2022-09-12 10:44:31 INFO  GestorClienteServiceImpl:45 - Se a creado al cliente: 111111122222222
+2022-09-12 10:44:44 INFO  GestorClienteServiceImpl:82 - Se a buscado a los clientes con apellido: Pepes
+2022-09-12 10:44:57 INFO  GestorClienteServiceImpl:89 - Se al cliente con cedula: 4275343453
+2022-09-12 10:45:01 INFO  GestorClienteServiceImpl:67 - Se a buscado al cliente: 4
+2022-09-12 10:49:15 INFO  GestorClienteServiceImpl:67 - Se a buscado al cliente: 4
+2022-09-12 10:49:15 INFO  GestorClienteServiceImpl:75 - Se a actualizado al cliente: 4275343453
+2022-09-12 10:49:53 INFO  GestorClienteServiceImpl:67 - Se a buscado al cliente: 4
+2022-09-12 10:49:53 INFO  GestorClienteServiceImpl:75 - Se a actualizado al cliente: 4275343453
+2022-09-12 10:50:07 INFO  GestorClienteServiceImpl:82 - Se a buscado a los clientes con apellido: 
+2022-09-12 10:50:11 INFO  GestorClienteServiceImpl:82 - Se a buscado a los clientes con apellido: Pepes
+2022-09-12 10:50:15 INFO  GestorClienteServiceImpl:67 - Se a buscado al cliente: 11
+2022-09-12 10:50:15 INFO  GestorClienteServiceImpl:55 - Se a eliminado al cliente: 556666
+2022-09-12 10:50:48 INFO  GestorClienteServiceImpl:29 - Se a creado al vehiculo: PUT-1111
+2022-09-12 10:52:14 INFO  GestorClienteServiceImpl:95 - Si se puede retirar el vehiculo
+2022-09-12 10:52:14 INFO  GestorClienteServiceImpl:59 - Se a actualizado al vehiculo con placa: aa
+2022-09-12 10:52:31 INFO  GestorClienteServiceImpl:72 - Se a buscado los vehiculos con marca: KIA y modelo: SPORTAGE
+2022-09-12 10:53:29 INFO  GestorClienteServiceImpl:49 - El vehiculo si esta disponible
+2022-09-12 10:53:29 INFO  GestorClienteServiceImpl:51 - Se encontro el vehiculo
+2022-09-12 10:53:29 INFO  GestorClienteServiceImpl:65 - Se a buscado al vehiculo con placa: PUT-1111
+2022-09-12 10:53:29 INFO  GestorClienteServiceImpl:53 - Se encontro el vehiculo
+2022-09-12 10:53:29 INFO  GestorClienteServiceImpl:75 - Se inserto la reserva y el cobro
+2022-09-12 10:53:36 INFO  GestorClienteServiceImpl:95 - Si se puede retirar el vehiculo
+2022-09-12 10:53:36 INFO  GestorClienteServiceImpl:59 - Se a actualizado al vehiculo con placa: PUT-1111
+2022-09-12 10:53:49 INFO  GestorClienteServiceImpl:24 - Se realizao la consulta de reporte de las reservas
+2022-09-12 10:54:11 INFO  GestorClienteServiceImpl:96 - Se a realizado el reporte de clientes VIP
+2022-09-12 10:54:42 INFO  GestorClienteServiceImpl:103 - Se a buscado a los vehiculos con año y mes: 2022/09
+2022-09-12 10:55:06 INFO  GestorClienteServiceImpl:103 - Se a buscado a los vehiculos con año y mes: 2023/01
+2022-09-12 10:55:11 INFO  GestorClienteServiceImpl:103 - Se a buscado a los vehiculos con año y mes: 2023/1
+2022-09-12 10:56:25 INFO  GestorClienteServiceImpl:82 - Se a buscado a los clientes con apellido: 
+2022-09-12 10:56:55 INFO  GestorClienteServiceImpl:82 - Se a buscado a los clientes con apellido: ewrer
+2022-09-12 11:00:01 INFO  GestorClienteServiceImpl:82 - Se a buscado a los clientes con apellido: Pepes
+2022-09-12 11:00:05 INFO  GestorClienteServiceImpl:89 - Se al cliente con cedula: 556666899
+2022-09-12 11:00:09 INFO  GestorClienteServiceImpl:67 - Se a buscado al cliente: 12
+2022-09-12 11:00:17 INFO  GestorClienteServiceImpl:67 - Se a buscado al cliente: 14
+2022-09-12 11:00:17 INFO  GestorClienteServiceImpl:55 - Se a eliminado al cliente: 8888888888
+2022-09-12 11:00:22 INFO  GestorClienteServiceImpl:82 - Se a buscado a los clientes con apellido: Pepes
+2022-09-12 11:00:33 INFO  GestorClienteServiceImpl:82 - Se a buscado a los clientes con apellido: Flores Campaña
+2022-09-12 11:00:37 INFO  GestorClienteServiceImpl:67 - Se a buscado al cliente: 8
+2022-09-12 11:00:37 INFO  GestorClienteServiceImpl:58 - NO se a eliminado al cliente: 1752310126
+2022-09-12 11:01:27 INFO  GestorClienteServiceImpl:50 - Se a buscado al vehiculo con id: 101
+2022-09-12 11:01:29 INFO  GestorClienteServiceImpl:50 - Se a buscado al vehiculo con id: 101
+2022-09-12 11:01:43 INFO  GestorClienteServiceImpl:72 - Se a buscado los vehiculos con marca: KIA y modelo: SPORTAGE
+2022-09-12 11:02:18 INFO  GestorClienteServiceImpl:49 - El vehiculo si esta disponible
+2022-09-12 11:02:18 INFO  GestorClienteServiceImpl:51 - Se encontro el vehiculo
+2022-09-12 11:02:18 INFO  GestorClienteServiceImpl:65 - Se a buscado al vehiculo con placa: PTG-9563
+2022-09-12 11:02:18 INFO  GestorClienteServiceImpl:53 - Se encontro el vehiculo
+2022-09-12 11:02:53 INFO  GestorClienteServiceImpl:49 - El vehiculo si esta disponible
+2022-09-12 11:02:53 INFO  GestorClienteServiceImpl:51 - Se encontro el vehiculo
+2022-09-12 11:02:53 INFO  GestorClienteServiceImpl:65 - Se a buscado al vehiculo con placa: PTG-9563
+2022-09-12 11:02:53 INFO  GestorClienteServiceImpl:53 - Se encontro el vehiculo
+2022-09-12 11:02:53 INFO  GestorClienteServiceImpl:75 - Se inserto la reserva y el cobro
+2022-09-12 11:03:00 INFO  GestorClienteServiceImpl:95 - Si se puede retirar el vehiculo
+2022-09-12 11:03:00 INFO  GestorClienteServiceImpl:59 - Se a actualizado al vehiculo con placa: PTG-9563
+2022-09-12 11:04:29 INFO  GestorClienteServiceImpl:24 - Se realizao la consulta de reporte de las reservas
+2022-09-12 11:04:33 INFO  GestorClienteServiceImpl:96 - Se a realizado el reporte de clientes VIP
+2022-09-12 12:03:26 INFO  GestorClienteServiceImpl:82 - Se a buscado a los clientes con apellido: Rodrigues
+2022-09-12 12:03:26 INFO  GestorClienteServiceImpl:96 - Se a realizado el reporte de clientes VIP
+2022-09-12 12:06:21 INFO  GestorClienteServiceImpl:95 - Si se puede retirar el vehiculo
+2022-09-12 12:06:21 INFO  GestorClienteServiceImpl:59 - Se a actualizado al vehiculo con placa: ABC-123
+2022-09-12 12:06:21 INFO  GestorClienteServiceImpl:59 - Se a actualizado al vehiculo con placa: ABC-123
+2022-09-12 12:06:21 INFO  GestorClienteServiceImpl:49 - El vehiculo si esta disponible
+2022-09-12 12:06:21 INFO  GestorClienteServiceImpl:51 - Se encontro el vehiculo
+2022-09-12 12:06:21 INFO  GestorClienteServiceImpl:65 - Se a buscado al vehiculo con placa: E48-ZP
+2022-09-12 12:06:21 INFO  GestorClienteServiceImpl:53 - Se encontro el vehiculo
+2022-09-12 12:06:21 INFO  GestorClienteServiceImpl:75 - Se inserto la reserva y el cobro
+2022-09-12 12:07:50 INFO  GestorClienteServiceImpl:65 - Se a buscado al vehiculo con placa: E48-ZP
+2022-09-12 12:07:50 INFO  GestorClienteServiceImpl:59 - Se a actualizado al vehiculo con placa: Subaru
+2022-09-12 12:07:50 INFO  GestorClienteServiceImpl:72 - Se a buscado los vehiculos con marca: KIA y modelo: SPORTAGE
+2022-09-12 12:07:50 INFO  GestorClienteServiceImpl:80 - Se a buscado a los vehiculos con marca: KIA
+2022-09-12 12:07:50 INFO  GestorClienteServiceImpl:42 - NO se a eliminado al vehiculo: E48-ZP
+2022-09-12 12:07:50 INFO  GestorClienteServiceImpl:29 - Se a creado al vehiculo: Subaru
+2022-09-12 12:07:50 INFO  GestorClienteServiceImpl:50 - Se a buscado al vehiculo con id: 100
+2022-09-12 13:41:49 INFO  GestorClienteServiceImpl:72 - Se a buscado los vehiculos con marca: KIA y modelo: SPORTAGE
+2022-09-12 13:42:06 INFO  GestorClienteServiceImpl:72 - Se a buscado los vehiculos con marca: Chevrolet y modelo: Camaro
+2022-09-12 13:42:12 INFO  GestorClienteServiceImpl:45 - Se a creado al cliente: 
+2022-09-12 13:42:25 INFO  GestorClienteServiceImpl:89 - Se al cliente con cedula: 1472541236
+2022-09-12 13:42:52 INFO  GestorClienteServiceImpl:89 - Se al cliente con cedula: 178145236
+2022-09-12 13:43:26 INFO  GestorClienteServiceImpl:82 - Se a buscado a los clientes con apellido: Pepes
+2022-09-12 13:43:38 INFO  GestorClienteServiceImpl:82 - Se a buscado a los clientes con apellido: Rodrigues
+2022-09-12 13:43:40 INFO  GestorClienteServiceImpl:89 - Se al cliente con cedula: 1485236893
+2022-09-12 13:43:55 INFO  GestorClienteServiceImpl:89 - Se al cliente con cedula: 1485236893
+2022-09-12 13:44:10 INFO  GestorClienteServiceImpl:82 - Se a buscado a los clientes con apellido: Rodrigues
+2022-09-12 13:44:12 INFO  GestorClienteServiceImpl:67 - Se a buscado al cliente: 101
+2022-09-12 13:44:38 INFO  GestorClienteServiceImpl:50 - Se a buscado al vehiculo con id: 101
+2022-09-12 13:44:42 INFO  GestorClienteServiceImpl:50 - Se a buscado al vehiculo con id: 101
+2022-09-12 13:45:04 INFO  GestorClienteServiceImpl:72 - Se a buscado los vehiculos con marca: KIA y modelo: SPORTAGE
+2022-09-12 13:46:34 INFO  GestorClienteServiceImpl:72 - Se a buscado los vehiculos con marca: KIA y modelo: SPORTAGE
+2022-09-12 13:46:51 INFO  GestorClienteServiceImpl:49 - El vehiculo si esta disponible
+2022-09-12 13:46:51 INFO  GestorClienteServiceImpl:51 - Se encontro el vehiculo
+2022-09-12 13:46:51 INFO  GestorClienteServiceImpl:65 - Se a buscado al vehiculo con placa: PTG-9563
+2022-09-12 13:46:51 INFO  GestorClienteServiceImpl:53 - Se encontro el vehiculo
+2022-09-12 13:47:11 INFO  GestorClienteServiceImpl:24 - Se realizao la consulta de reporte de las reservas
+2022-09-12 13:47:23 INFO  GestorClienteServiceImpl:96 - Se a realizado el reporte de clientes VIP
+2022-09-12 13:47:38 INFO  GestorClienteServiceImpl:103 - Se a buscado a los vehiculos con año y mes: 2022/02
+2022-09-12 13:48:43 INFO  GestorClienteServiceImpl:103 - Se a buscado a los vehiculos con año y mes: 2020/02
+2022-09-12 13:48:48 INFO  GestorClienteServiceImpl:103 - Se a buscado a los vehiculos con año y mes: 2021/02
+2022-09-12 13:54:50 INFO  GestorClienteServiceImpl:72 - Se a buscado los vehiculos con marca: KIA y modelo: SPORTAGE
+2022-09-12 13:54:55 INFO  GestorClienteServiceImpl:72 - Se a buscado los vehiculos con marca: KIA y modelo: SPORTAGE
+2022-09-12 14:01:58 INFO  GestorClienteServiceImpl:72 - Se a buscado los vehiculos con marca: KIA y modelo: SPORTAGE
+2022-09-12 14:03:33 INFO  GestorClienteServiceImpl:49 - El vehiculo si esta disponible
+2022-09-12 14:03:33 INFO  GestorClienteServiceImpl:51 - Se encontro el vehiculo
+2022-09-12 14:03:33 INFO  GestorClienteServiceImpl:65 - Se a buscado al vehiculo con placa: PTG-9563
+2022-09-12 14:03:33 INFO  GestorClienteServiceImpl:53 - Se encontro el vehiculo
+2022-09-12 14:03:53 INFO  GestorClienteServiceImpl:49 - El vehiculo si esta disponible
+2022-09-12 14:03:53 INFO  GestorClienteServiceImpl:51 - Se encontro el vehiculo
+2022-09-12 14:03:53 INFO  GestorClienteServiceImpl:65 - Se a buscado al vehiculo con placa: PTG-9563
+2022-09-12 14:03:53 INFO  GestorClienteServiceImpl:53 - Se encontro el vehiculo
+2022-09-12 14:03:53 INFO  GestorClienteServiceImpl:75 - Se inserto la reserva y el cobro
+2022-09-12 14:09:11 INFO  GestorClienteServiceImpl:95 - Si se puede retirar el vehiculo
+2022-09-12 14:09:11 INFO  GestorClienteServiceImpl:59 - Se a actualizado al vehiculo con placa: PTG-9563
+2022-09-12 14:13:00 INFO  GestorClienteServiceImpl:103 - Se a buscado a los vehiculos con año y mes: 2022/02
+2022-09-12 14:14:17 INFO  GestorClienteServiceImpl:72 - Se a buscado los vehiculos con marca: Chevrolet y modelo: Aveo
+2022-09-12 14:14:52 INFO  GestorClienteServiceImpl:49 - El vehiculo si esta disponible
+2022-09-12 14:14:52 INFO  GestorClienteServiceImpl:51 - Se encontro el vehiculo
+2022-09-12 14:14:52 INFO  GestorClienteServiceImpl:65 - Se a buscado al vehiculo con placa: PTS045
+2022-09-12 14:14:52 INFO  GestorClienteServiceImpl:53 - Se encontro el vehiculo
+2022-09-12 14:14:52 INFO  GestorClienteServiceImpl:75 - Se inserto la reserva y el cobro
+2022-09-12 14:14:55 INFO  GestorClienteServiceImpl:95 - Si se puede retirar el vehiculo
+2022-09-12 14:14:55 INFO  GestorClienteServiceImpl:59 - Se a actualizado al vehiculo con placa: PTS045
+2022-09-12 14:15:02 INFO  GestorClienteServiceImpl:103 - Se a buscado a los vehiculos con año y mes: 2022/02
+2022-09-12 14:15:37 INFO  GestorClienteServiceImpl:99 - No se puede retirar el vehiculo
+2022-09-12 14:16:27 INFO  GestorClienteServiceImpl:49 - El vehiculo si esta disponible
+2022-09-12 14:16:27 INFO  GestorClienteServiceImpl:51 - Se encontro el vehiculo
+2022-09-12 14:16:27 INFO  GestorClienteServiceImpl:65 - Se a buscado al vehiculo con placa: PTS045
+2022-09-12 14:16:27 INFO  GestorClienteServiceImpl:53 - Se encontro el vehiculo
+2022-09-12 14:16:27 INFO  GestorClienteServiceImpl:75 - Se inserto la reserva y el cobro
+2022-09-12 14:16:29 INFO  GestorClienteServiceImpl:99 - No se puede retirar el vehiculo
+2022-09-12 14:21:10 INFO  GestorClienteServiceImpl:99 - No se puede retirar el vehiculo
+2022-09-12 14:22:20 INFO  GestorClienteServiceImpl:103 - Se a buscado a los vehiculos con año y mes: 2030/02
+2022-09-12 14:22:45 INFO  GestorClienteServiceImpl:103 - Se a buscado a los vehiculos con año y mes: 2020/02
+2022-09-12 15:25:24 INFO  GestorClienteServiceImpl:50 - Se a buscado al vehiculo con id: 105
+2022-09-12 15:25:43 INFO  GestorClienteServiceImpl:50 - Se a buscado al vehiculo con id: 105
+2022-09-12 15:26:13 INFO  GestorClienteServiceImpl:50 - Se a buscado al vehiculo con id: 105
+2022-09-12 15:27:03 INFO  GestorClienteServiceImpl:82 - Se a buscado a los clientes con apellido: Alvear
+2022-09-12 16:41:19 INFO  GestorClienteServiceImpl:82 - Se a buscado a los clientes con apellido: Rodrigues
+2022-09-12 16:41:19 INFO  GestorClienteServiceImpl:96 - Se a realizado el reporte de clientes VIP
+2022-09-12 16:42:19 INFO  GestorClienteServiceImpl:95 - Si se puede retirar el vehiculo
+2022-09-12 16:42:19 INFO  GestorClienteServiceImpl:59 - Se a actualizado al vehiculo con placa: ABC-123
+2022-09-12 16:42:19 INFO  GestorClienteServiceImpl:59 - Se a actualizado al vehiculo con placa: ABC-123
+2022-09-12 16:42:19 INFO  GestorClienteServiceImpl:49 - El vehiculo si esta disponible
+2022-09-12 16:42:19 INFO  GestorClienteServiceImpl:51 - Se encontro el vehiculo
+2022-09-12 16:42:19 INFO  GestorClienteServiceImpl:65 - Se a buscado al vehiculo con placa: E48-ZP
+2022-09-12 16:42:19 INFO  GestorClienteServiceImpl:53 - Se encontro el vehiculo
+2022-09-12 16:42:19 INFO  GestorClienteServiceImpl:75 - Se inserto la reserva y el cobro
+2022-09-12 16:42:32 INFO  GestorClienteServiceImpl:65 - Se a buscado al vehiculo con placa: E48-ZP
+2022-09-12 16:42:32 INFO  GestorClienteServiceImpl:59 - Se a actualizado al vehiculo con placa: Subaru
+2022-09-12 16:42:32 INFO  GestorClienteServiceImpl:72 - Se a buscado los vehiculos con marca: KIA y modelo: SPORTAGE
+2022-09-12 16:42:32 INFO  GestorClienteServiceImpl:80 - Se a buscado a los vehiculos con marca: KIA
+2022-09-12 16:42:32 INFO  GestorClienteServiceImpl:42 - NO se a eliminado al vehiculo: E48-ZP
+2022-09-12 16:42:32 INFO  GestorClienteServiceImpl:29 - Se a creado al vehiculo: Subaru
+2022-09-12 16:42:32 INFO  GestorClienteServiceImpl:50 - Se a buscado al vehiculo con id: 100
